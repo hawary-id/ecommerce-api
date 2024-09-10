@@ -20,7 +20,7 @@ Clone repository ke direktori lokal Anda menggunakan perintah berikut:
 
 ### 2. Masuk Direktori Proyek
 ```bash
-    cd ecommerce-apo
+    cd ecommerce-api
 ```
 
 ### 3. Install Dependencies
