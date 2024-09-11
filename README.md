@@ -9,7 +9,7 @@ Pastikan Anda memiliki persyaratan berikut sebelum memulai:
 - PHP >= 8.2
 - Sodium PHP Extension
 - Composer
-- MySQL
+- MySQL Database Name `ecommerce-api`
 
 ## Langkah Instalasi
 
