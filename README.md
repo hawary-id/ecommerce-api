@@ -7,6 +7,7 @@ Technical test API Checkout & Auth
 Pastikan Anda memiliki persyaratan berikut sebelum memulai:
 
 - PHP >= 8.2
+- Sodium PHP 
 - Composer
 - MySQL
 
@@ -15,7 +16,7 @@ Pastikan Anda memiliki persyaratan berikut sebelum memulai:
 ### 1. Clone Reposity
 Clone repository ke direktori lokal Anda menggunakan perintah berikut:
 ```bash
-    https://github.com/hawary-id/ecommerce-api.git
+    git clone https://github.com/hawary-id/ecommerce-api.git
 ```    
 
 ### 2. Masuk Direktori Proyek
