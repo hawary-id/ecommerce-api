@@ -7,7 +7,7 @@ Technical test API Checkout & Auth
 Pastikan Anda memiliki persyaratan berikut sebelum memulai:
 
 - PHP >= 8.2
-- Sodium PHP 
+- Sodium PHP Extension
 - Composer
 - MySQL
 
